@@ -1,4 +1,4 @@
-FROM wso2/wso2is:latest
+FROM wso2/wso2is:5.10.0
 
 #USER root
 
